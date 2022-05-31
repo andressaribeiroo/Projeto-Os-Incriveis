@@ -35,6 +35,7 @@ ul{
 body{
     font-family: 'Secular One', sans-serif;
     background-color: var(--cor-secundaria);
+    
 }
 
 body::before{
