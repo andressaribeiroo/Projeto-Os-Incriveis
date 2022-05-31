@@ -6,6 +6,7 @@ Devenvolver uma interface de um jogo de luta onde é possivel selecionar o perso
 
 ## Demonstração
 
+<img src="./asserts/os-incriveis.gif" />
 
 ## 🚀Tecnologias e Ferramentas utilizadas:
 <h1 align='left'>
